@@ -1,1 +1,1 @@
-# Coniguratoion files for Geeetech I3Pro running Klipper
+# Configuratoion files for Geeetech I3Pro running Klipper
