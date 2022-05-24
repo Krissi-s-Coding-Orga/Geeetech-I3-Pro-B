@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+#block backups
+printer-*.cfg
+.moonraker.conf.bck
+
+timelapse.cfg
