@@ -34,5 +34,8 @@
 #block backups
 printer-*.cfg
 .moonraker.conf.bck
+.moonraker.conf.bkp
+moonraker.conf.bck
+moonraker.conf.bkp
 
 timelapse.cfg
